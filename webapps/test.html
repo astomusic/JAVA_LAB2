@@ -1,0 +1,61 @@
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ko" xml:lang="ko">
+<head>
+<title>Network::Project</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script type="text/javascript">
+	function initPage() {
+		registerEvents();
+	}
+	
+	function registerEvents() {
+		formList = document.querySelectorAll('#comment input[type=submit]');
+		for ( var i=0 ; i < formList.length ; i++) {
+			formList[i].addEventListener('click',writeComments, false);
+		}
+	}
+	
+	function writeComments(e) {
+		e.preventDefault();
+		console.log("here");
+		var eleForm = e.currentTarget.form;
+		var textbox = eleForm.querySelectorAll('input[type=text]');
+		var oFormData = new FormData(eleForm); //form data들을 자동으로 묶어준다.
+		textbox[0].value = "";
+		var sID = eleForm[0].value;
+		var url = "/reponse.json";
+		var request = new XMLHttpRequest();
+		request.open("POST" , url, true);
+		request.onreadystatechange = function() {
+			if(request.readyState ==4 && request.status ==200) {
+				var obj = JSON.parse(request.responseText);
+				console.log(obj);
+				var element = document.querySelectorAll('#view ul');
+				var str_del = "<li>"+obj.content+"</li>";
+				element[0].insertAdjacentHTML("beforeend" , str_del );
+				//var eleCommentListli = eleCommentList.querySelectorAll('ul>li');
+				//eleCommentList.style.height = eleCommentListli.length * 19 + "px";
+				//eleCommentList.style.opacity = "1";
+				//countComments();
+				//registerEvents();
+			}
+		}
+		request.send(oFormData);
+	}
+
+
+	window.onload = initPage;
+</script>
+</head> 
+<body>
+	<h1>Image 1</h1>
+	<img src="http://pds23.egloos.com/logo/201208/13/28/e0127128.jpg">
+	<div id ="view">
+	<ul></ul>
+	</div>
+	<div id="comment">
+	<form action="/" method="POST" enctype="multipart/form-data">
+		<input type="text" id="content" name="content" placeholder="채팅입력하세요">
+		<input type="submit" value="입력"><br>
+	</form>
+</body>
+</html>
