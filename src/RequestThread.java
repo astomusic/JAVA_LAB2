@@ -1,5 +1,4 @@
 import java.io.BufferedReader;
-import java.io.BufferedWriter;
 import java.io.DataOutputStream;
 import java.io.File;
 import java.io.FileInputStream;
@@ -33,6 +32,8 @@ public class RequestThread extends Thread {
 		FileInputStream fis = null;
 		File requestFile;
 		FileWriter fw = null;
+		DataMap dataMap = DataMap.getMap();
+		String id = "";
 		
 		try {
 			is = connection.getInputStream();
@@ -45,8 +46,12 @@ public class RequestThread extends Thread {
 			String header = br.readLine();
 			String path = header;
 
+			String requestUrl = request.pasingUrl(path);
 			String requestType = request.pasingType(path);
+			
 			System.out.println(requestType);
+			System.out.println(requestUrl); 
+			
 			System.out.println(header);
 
 			if (requestType.equals("GET")) {
@@ -84,14 +89,18 @@ public class RequestThread extends Thread {
 					//System.out.print(c);
 					
 				}
-				System.out.print(myArrayList.get(3));
-				String str = myArrayList.get(3);
-				jsonData = "{\"content\":\"" + str + "\"}";
+				id = myArrayList.get(7);
+				String content = myArrayList.get(3);
+//				if (!content.equals("!QAZ@WSX")) {
+//					dataMap.insertData(id, content);
+//				}
+				dataMap.insertData(id, content);
+				jsonData = dataMap.genJsonData(id);
+				dataMap.clearDate(id);
 			}
 			
 
-			String requestUrl = request.pasingUrl(path);
-			System.out.println(requestUrl);
+			
 			
 			if(requestUrl.equals("/reponse.json")) {
 				requestFile = new File(DEFAULT_WEBAPPS_DIR + requestUrl);

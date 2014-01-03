@@ -2806,3 +2806,666 @@
   <message>./webapps/favicon.ico (No such file or directory)</message>
 </record>
 </log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-01-02T21:51:16</date>
+  <millis>1388667076075</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-01-02T21:56:20</date>
+  <millis>1388667380343</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+<record>
+  <date>2014-01-02T21:57:42</date>
+  <millis>1388667462651</millis>
+  <sequence>6</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>13</thread>
+  <message>Broken pipe</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-01-02T22:01:38</date>
+  <millis>1388667698110</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-01-02T22:02:20</date>
+  <millis>1388667740898</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-01-02T22:11:51</date>
+  <millis>1388668311662</millis>
+  <sequence>5</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-01-02T22:16:12</date>
+  <millis>1388668572512</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-01-03T15:21:10</date>
+  <millis>1388730070587</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-01-03T15:22:52</date>
+  <millis>1388730172010</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-01-03T15:26:12</date>
+  <millis>1388730372528</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-01-03T15:28:49</date>
+  <millis>1388730529456</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-01-03T15:29:35</date>
+  <millis>1388730575708</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-01-03T15:38:06</date>
+  <millis>1388731086303</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-01-03T15:41:36</date>
+  <millis>1388731296483</millis>
+  <sequence>5</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-01-03T15:44:34</date>
+  <millis>1388731474222</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-01-03T15:45:48</date>
+  <millis>1388731548142</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-01-03T15:46:57</date>
+  <millis>1388731617219</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-01-03T16:06:17</date>
+  <millis>1388732777561</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>11</thread>
+  <message>./webapps</message>
+</record>
+<record>
+  <date>2014-01-03T16:06:22</date>
+  <millis>1388732782284</millis>
+  <sequence>5</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>13</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-01-03T16:06:59</date>
+  <millis>1388732819231</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-01-03T16:23:38</date>
+  <millis>1388733818584</millis>
+  <sequence>5</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-01-03T16:28:36</date>
+  <millis>1388734116715</millis>
+  <sequence>6</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+<record>
+  <date>2014-01-03T16:31:53</date>
+  <millis>1388734313392</millis>
+  <sequence>48</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>55</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+<record>
+  <date>2014-01-03T16:31:53</date>
+  <millis>1388734313396</millis>
+  <sequence>49</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>56</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+<record>
+  <date>2014-01-03T16:31:53</date>
+  <millis>1388734313400</millis>
+  <sequence>54</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>58</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+<record>
+  <date>2014-01-03T16:31:53</date>
+  <millis>1388734313400</millis>
+  <sequence>55</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>60</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+<record>
+  <date>2014-01-03T16:31:53</date>
+  <millis>1388734313401</millis>
+  <sequence>56</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>57</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+<record>
+  <date>2014-01-03T16:31:53</date>
+  <millis>1388734313401</millis>
+  <sequence>57</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>59</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-01-03T16:32:14</date>
+  <millis>1388734334665</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-01-03T21:06:07</date>
+  <millis>1388750767875</millis>
+  <sequence>13</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>18</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+<record>
+  <date>2014-01-03T21:07:24</date>
+  <millis>1388750844960</millis>
+  <sequence>48</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>56</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-01-03T21:09:43</date>
+  <millis>1388750983013</millis>
+  <sequence>13</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>18</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+<record>
+  <date>2014-01-03T21:10:08</date>
+  <millis>1388751008024</millis>
+  <sequence>49</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>57</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-01-03T21:13:30</date>
+  <millis>1388751210439</millis>
+  <sequence>14</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>19</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-01-03T21:16:22</date>
+  <millis>1388751382847</millis>
+  <sequence>7</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+<record>
+  <date>2014-01-03T21:16:36</date>
+  <millis>1388751396589</millis>
+  <sequence>25</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>29</thread>
+  <message>./webapps</message>
+</record>
+<record>
+  <date>2014-01-03T21:16:50</date>
+  <millis>1388751410004</millis>
+  <sequence>49</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>56</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-01-03T21:18:15</date>
+  <millis>1388751495569</millis>
+  <sequence>11</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>16</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+<record>
+  <date>2014-01-03T21:18:34</date>
+  <millis>1388751514647</millis>
+  <sequence>48</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>56</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-01-03T21:20:00</date>
+  <millis>1388751600911</millis>
+  <sequence>7</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+<record>
+  <date>2014-01-03T21:20:24</date>
+  <millis>1388751624479</millis>
+  <sequence>48</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>56</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+<record>
+  <date>2014-01-03T21:20:41</date>
+  <millis>1388751641501</millis>
+  <sequence>87</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>90</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+<record>
+  <date>2014-01-03T21:21:03</date>
+  <millis>1388751663463</millis>
+  <sequence>130</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>132</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-01-03T21:22:14</date>
+  <millis>1388751734475</millis>
+  <sequence>7</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>11</thread>
+  <message>./webapps</message>
+</record>
+<record>
+  <date>2014-01-03T21:22:17</date>
+  <millis>1388751737496</millis>
+  <sequence>8</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>13</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+<record>
+  <date>2014-01-03T21:22:41</date>
+  <millis>1388751761736</millis>
+  <sequence>50</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>56</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+<record>
+  <date>2014-01-03T21:22:41</date>
+  <millis>1388751761736</millis>
+  <sequence>51</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>57</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-01-03T21:24:50</date>
+  <millis>1388751890029</millis>
+  <sequence>7</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+<record>
+  <date>2014-01-03T21:25:14</date>
+  <millis>1388751914716</millis>
+  <sequence>48</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>56</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+</log>
